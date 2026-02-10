@@ -1,4 +1,8 @@
-Col_0,Col_1,Col_2,Col_3,Col_4,Col_5,Col_6,Col_7,Col_8,Col_9,Col_10
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11
+"Table -1: Area and Production of Important Crops (Area '000’ hectares, Production ‘000’ tonnes)",,,,,,,,,,
+CROPS/ YEAR,Wheat,,Maize,,Rice,,Sugarcane,,Cotton*,
+,Area,Production,Area,Production,Area,Production,Area,Production,Area,Production
+2015-16,9223.7,25633.1,1191.2,5270.9,2739.5,6801.3,1131.6 1217.5,65482.4,2901.9,9917.4
 2016-17,8972.4,26673.7,1348.5,6134.3,2724.0,6849.3,,75482.3,2489.0,10670.6
 2017-18,8797.2,25076.1,1250.8,5901.6,2900.6,7449.9,1341.8,83332.7,2700.3,11945.6
 2018-19,8677.7,24349.0,1373.9,6826.4,2810.0,7202.0,1101.9,67174.0,2373.0,9860.8

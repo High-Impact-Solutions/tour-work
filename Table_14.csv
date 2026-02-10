@@ -1,4 +1,8 @@
-Col_0,Col_1,Col_2,Col_3,Col_4
+Column_1,Column_2,Column_3,Column_4,Column_5
+Table-10 Province-wise Consumption of Fertilizers (Thousand nutrient tonnes),,,,
+Province,Nitrogen,Phosphate,Potash,Total
+2015-16,,,,
+Total,2671.9,1007.3,20.0,3699.2
 Punjab,1771.7,718.0,13.0,2502.7
 Sindh,715.4,226.9,5.0,947.3
 Khyber Pakhtunkhwa,133.2,39.3,1.1,173.6
@@ -39,4 +43,3 @@ Punjab,2638.0,791.0,50.0,3479.0
 Sindh,934.0,236.0,18.0,1188.0
 Khyber Pakhtunkhwa,148.0,37.0,2.1,187.1
 Balochistan,117.0,29.0,1.4,147.4
-"Source: National Fertilizer Development Centre, Islamabad",,,,

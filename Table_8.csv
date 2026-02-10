@@ -1,4 +1,7 @@
-Col_0,Col_1,Col_2,Col_3,Col_4,Col_5,Col_6,Col_7,Col_8,Col_9
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10
+Province,Total,Canals,,Tubewells,Wells,Canal Tube- wells,Canal wells,Tanks,Others
+,,Government,Private,,,,,,
+2015-16,,,,,,,,,
 TOTAL,18.60,5.56,0.40,3.60,0.35,8.15,0.28,0.00,0.26
 Punjab,14.86,3.35,--,2.71,0.25,8.15,0.28,--,0.12
 Sindh,1.69,1.33,--,0.36,*,--,--,--,--
@@ -40,4 +43,3 @@ Punjab (R),15.61,3.27,0.00,3.09,0.18,8.71,0.23,0.00,0.13
 Sindh,1.66,1.30,0.00,0.36,0.00,_,_,_,_
 Khyber Pakhtunkhwa,0.97,0.46,0.28,0.10,0.04,_,_,0.00,0.09
 Balochistan,1.18,0.49,0.08,0.47,0.04,_,_,0.00,0.10
-* = Nominal Source: Provincial Agriculture Departments.,,,,,,,,,

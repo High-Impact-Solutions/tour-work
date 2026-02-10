@@ -1,4 +1,8 @@
-Col_0,Col_1,Col_2,Col_3,Col_4,Col_5,Col_6,Col_7,Col_8,Col_9,Col_10,Col_11,Col_12
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13
+Table-6 Season-wise Rivers Inflow at Rim Stations,,,,,,,,,,,,
+(MAF),,,,,,,,,,,,
+Year,A. Western Rivers,,,,,,,,,,,
+,Jhelum at Mangla,,,Chenab at Marala,,,Indus at Kalabagh *,,,Western Rivers Total,,
 ,Kharif,Rabi,Total,Kharif,Rabi,Total,Kharif,Rabi,Total,Kharif,Rabi,Total
 2015-16,20.71,7.87,28.58,22.83,4.48,27.31,83.20,17.76,100.96,126.74,30.11,156.85
 2016-17,15.15,4.57,19.72,18.05,3.98,22.03,76.74,13.93,90.67,109.94,22.48,132.42
@@ -14,4 +18,3 @@ Year,B. Eastern Rivers,,,,,,,,,C. All Rivers,,
 2017-18,2.20,0.63,2.83,0.40,0.95,1.35,2.60,1.58,4.18,111.43,18.77,130.20
 2018-19,2.04,0.84,2.88,0.21,0.64,0.85,2.25,1.48,3.73,89.19,23.88,113.07
 2019-20,1.90,1.51,3.41,2.00,0.52,2.52,3.90,2.03,5.93,110.14,30.51,140.65
-"2020-21 2.13 0.58 2.71 0.75 0.2 0.95 2.88 0.78 3.66 104.85 23.37 128.22 * Unregulated Source: Water Management Directorate, WAPDA, Lahore ** Ravi at Balloki above UCC tail - MR Tail - GB Tail *** Sutleg at Sulemanki above - BS-1 Tail-BS Tail.",2.13,0.58,2.71,0.75,0.2,0.95,2.88,0.78,3.66,104.85,23.37,128.22

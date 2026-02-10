@@ -1,7 +1,10 @@
-Col_0,Col_1,Col_2,Col_3,Col_4,Col_5,Col_6,Col_7
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8
+Table-11 Crop-wise Consumption of Fertilizers (`000' nutrient tonnes),,,,,,,
+Y e a r,Wheat 50%,Rice 6%,M a i z e 1.5%,C otton 25%,S ugarcane 8%,Others 9.5%,Total
+2015-16,1849.60,221.95,55.49,924.80,295.94,351.42,3699.20
+2016-17,2519.95,302.39,75.60,1259.98,403.19,478.79,5039.90
 2017-18,2381.25,285.75,71.44,1190.63,381.00,452.44,4762.50
 2018-19,2306.95,276.83,69.21,1153.48,369.11,438.32,4613.90
 2019-20,2274.15,272.90,68.22,1137.08,363.86,432.09,4548.30
 2020-21,2504.00,300.48,75.12,1252.00,400.64,475.76,5008.00
 2021-22,2500.50,300.10,75.00,1250.30,400.10,475.10,5001.10
-"Source: National Fertilizer Development Centre, Islamabad. Note: Crop wise Percent Share based on Fertilizer Use Survey 2005, N.F.D.C",,,,,,,
